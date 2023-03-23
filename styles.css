@@ -11,18 +11,18 @@ div h2{
 }
 .container1{
 	background-color:white;
-	text-align:right:
+	
 	color:black;
 	margin:10px;
 	padding:19px;
 }
-.container1 span{
+.name{
 	font-style:italic;
-	float:right;
+	text-allign:right;
 }
 
 .container2{
-	text-align:right;
+	
 	background-color:white;
 	color:black;
 	margin:10px;
