@@ -6,9 +6,8 @@
 	height:600px;
 }
 .container1{
-	display:flex;
+
 	border:2px solid black;
-	width:500px;
 	background-color:white;
 	color:black;
 	margin:10px;
@@ -21,7 +20,7 @@
 
 .container2{
 	border:2px solid black;
-	display:flex;
+
 	background-color:white;
 	color:black;
 	margin:10px;
